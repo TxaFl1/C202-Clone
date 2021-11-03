@@ -1,0 +1,12 @@
+Para utulizar o bot e preciso instalar o node.js em seu computador.
+Download: https://nodejs.org/en/download/
+OBS: Caso ja tenha instalado apenas se divirta :)
+
+
+
+██╗     ███████╗ █████╗ ███╗   ██╗███████╗
+██║     ██╔════╝██╔══██╗████╗  ██║╚══███╔╝
+██║     █████╗  ███████║██╔██╗ ██║  ███╔╝ 
+██║     ██╔══╝  ██╔══██║██║╚██╗██║ ███╔╝  
+███████╗███████╗██║  ██║██║ ╚████║███████╗
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
